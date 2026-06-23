@@ -1,1 +1,1 @@
-This folder contains weekly reports, and final documentation.
+This folder contains deployment files and deployment sripts.
